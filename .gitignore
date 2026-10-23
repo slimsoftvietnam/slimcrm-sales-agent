@@ -1,0 +1,12 @@
+# Private runtime data
+.env
+.env.*
+**/leads/*.csv
+outputs/
+memory/
+tasks/
+nhat-ky/
+*.sqlite
+*.db
+*.log
+.DS_Store
